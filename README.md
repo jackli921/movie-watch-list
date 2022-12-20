@@ -3,8 +3,9 @@
  [Try it here](https://superlative-torrone-fc53f8.netlify.app/index.html)
 
 ## Intro
-This project is a training project built to consolidate key concepts I learned from:
-**Module 10 - Working with APIs** of the [Scrimba Frontend Career Path Course](https://scrimba.com/learn/frontend) 
+A training project built to consolidate key concepts I learned from:
+
+**Module 10 - Working with APIs** [Scrimba Frontend Career Path Course](https://scrimba.com/learn/frontend) 
 
 ## Demo
  ![https://superlative-torrone-fc53f8.netlify.app/index.html](./img/demo.gif)
