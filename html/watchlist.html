@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <head><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css">
+        <!-- google font -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;800&display=swap" rel="stylesheet">
+        <!-- style sheet -->
+        <link rel="stylesheet" href="/index.css">
+    </head>
+    
+    <body>
+        <header>
+            <h1>My Watchlist</h1>
+            <p><a href="index.html">Search for movies</a></p>  
+        </header>
+            
+        <div class="placeholder-container" id="placeholder-container">        
+                <p class="placeholder-text" id="placeholder-text">Your watchlist is looking a little empty...</p>
+                <div class="add-movie-container"">
+                    <img class="add-btn" src="/img/icon-add.png">
+                    <a class="add-movie-text" href="index.html"> Let's add some movies!</a>
+                </div>
+        </div>
+        
+         <div id="watchlist-feed"></div>
+        
+        <script src="/js/watchlist.js" type="module"></script>
+    </body>
+    
+</html>
