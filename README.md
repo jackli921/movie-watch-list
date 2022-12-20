@@ -7,11 +7,13 @@ A training project built to consolidate key concepts I learned from:
 
 **Module 10 - Working with APIs** [Scrimba Frontend Career Path Course](https://scrimba.com/learn/frontend) 
 
-## Demo
- ![https://superlative-torrone-fc53f8.netlify.app/index.html](./img/demo.gif)
-
 ## Lessons
 - practice fetching data using APIs
 - understand promises chaining
 - handle promise rejections using .catch()
+
+## Demo
+ ![https://superlative-torrone-fc53f8.netlify.app/index.html](./img/demo.gif)
+
+
 
